@@ -1,0 +1,5 @@
+2018/05/29-22:54:16.280 4dbc Recovering log #670
+2018/05/29-22:54:16.281 4dbc Level-0 table #672: started
+2018/05/29-22:54:16.283 4dbc Level-0 table #672: 62412 bytes OK
+2018/05/29-22:54:16.288 4dbc Delete type=0 #670
+2018/05/29-22:54:16.289 4dbc Delete type=3 #669

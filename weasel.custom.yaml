@@ -1,0 +1,12 @@
+patch:
+  show_notifications_via_notification_center: true
+  us_keyboard_layout: true 
+  show_notifications_when: appropriate
+  
+  style:
+    color_scheme: google
+    display_tray_icon: false
+    font_face: "Microsoft YaHei"
+    horizontal: true
+    font_point: 12
+    inline_preedit: false
